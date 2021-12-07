@@ -1,1 +1,2 @@
-# PlantillaProyecto_PRO_C28_Correcta
+# Plantilla-Proyecto-C28
+PLANTILLA PRO-C28: ARRANCANDO MANGOS 
